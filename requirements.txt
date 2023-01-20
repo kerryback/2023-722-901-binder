@@ -1,3 +1,4 @@
+alpaca-py==0.7.0
 altair==4.2.0
 appdirs==1.4.4
 asttokens==2.2.1
@@ -59,6 +60,7 @@ matplotlib-inline==0.1.6
 micawber==0.5.4
 mistune==0.8.4
 monotonic==1.6
+msgpack==1.0.4
 multitasking==0.0.11
 munch==2.5.0
 nbclient==0.7.2
@@ -100,6 +102,7 @@ scipy==1.10.0
 six==1.16.0
 soupsieve==2.3.2.post1
 SQLAlchemy==1.4.46
+sseclient-py==1.7.2
 stack-data==0.6.2
 statsmodels==0.13.5
 stringcase==1.2.0
@@ -116,4 +119,5 @@ validators==0.20.0
 vega-datasets==0.9.0
 wcwidth==0.2.6
 webencodings==0.5.1
+websockets==10.4
 yfinance==0.2.4
